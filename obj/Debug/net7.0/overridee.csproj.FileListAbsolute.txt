@@ -1,0 +1,15 @@
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/Company Project/overridee/bin/Debug/net7.0/overridee
+/Users/eyyuperdogan/Projects/Company Project/overridee/bin/Debug/net7.0/overridee.deps.json
+/Users/eyyuperdogan/Projects/Company Project/overridee/bin/Debug/net7.0/overridee.runtimeconfig.json
+/Users/eyyuperdogan/Projects/Company Project/overridee/bin/Debug/net7.0/overridee.dll
+/Users/eyyuperdogan/Projects/Company Project/overridee/bin/Debug/net7.0/overridee.pdb
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.dll
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/refint/overridee.dll
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.pdb
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/overridee.genruntimeconfig.cache
+/Users/eyyuperdogan/Projects/Company Project/overridee/obj/Debug/net7.0/ref/overridee.dll
